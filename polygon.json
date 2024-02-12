@@ -1,16 +1,14 @@
 import json
 
-# Read the JSON data from the provided dictionary
 ethereum_data = {
     "id": "ethereum",
-    "description": "...",  # (the full content of the JSON provided)
+    "description": "...", 
     ...
 }
 
-# Extract information related to Polygon
 polygon_data = {
     "id": "polygon",
-    "description": "Polygon is a ...",  # (provide a description if necessary)
+    "description": "Polygon is a ...", 
     "tags": [
         "pos",
         "ethereum ecosystem",
